@@ -3,7 +3,15 @@
 Convert binary files into C-code.
 More precisely, it will create an array of uint8_t containing the binary data.
 
-Usage:
+## Compile
+
+```sh
+cmake
+make
+```
+
+## Usage
+
 ```sh
 ./bin2c <filename>
 ```
