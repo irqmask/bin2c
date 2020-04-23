@@ -6,7 +6,7 @@ More precisely, it will create an array of uint8_t containing the binary data.
 ## Compile
 
 ```sh
-cmake
+cmake .
 make
 ```
 
